@@ -28,7 +28,8 @@
 ### Output:
 <img width="1073" height="887" alt="image" src="https://github.com/user-attachments/assets/cd7fa464-8f5b-4d47-9f7c-034a01121975" />
 <img width="1220" height="928" alt="image" src="https://github.com/user-attachments/assets/1f492415-93bf-4c75-be06-d0371ed471b4" />
-<img width="1355" height="876" alt="image" src="https://github.com/user-attachments/assets/1ad76155-70fe-43b1-a8f7-7ddea2fe6464" />
+<img width="1696" height="961" alt="image" src="https://github.com/user-attachments/assets/1e44d021-ae5a-471f-b41f-887421531003" />
+
 
 ### Result:
 Thus, sentimental analysis for the given data using Rapidminer is done successfully.
